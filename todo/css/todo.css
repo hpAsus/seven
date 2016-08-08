@@ -41,9 +41,13 @@ input[type=checkbox]
 	font-size: 110%;
 	display: inline;
 	outline: none;
-	margin-right: 10px;
+	margin-right: 15px;
 	position: relative;
 	top: -3px;
+}
+
+.todolist label {
+	font-weight: normal;
 }
 
 /*
